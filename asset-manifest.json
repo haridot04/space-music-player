@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/space-music-player/static/css/main.430d63aa.chunk.css",
+    "main.js": "/space-music-player/static/js/main.fcc25c73.chunk.js",
+    "main.js.map": "/space-music-player/static/js/main.fcc25c73.chunk.js.map",
+    "runtime-main.js": "/space-music-player/static/js/runtime-main.05353d89.js",
+    "runtime-main.js.map": "/space-music-player/static/js/runtime-main.05353d89.js.map",
+    "static/js/2.c56b82e0.chunk.js": "/space-music-player/static/js/2.c56b82e0.chunk.js",
+    "static/js/2.c56b82e0.chunk.js.map": "/space-music-player/static/js/2.c56b82e0.chunk.js.map",
+    "static/js/3.cede6b0f.chunk.js": "/space-music-player/static/js/3.cede6b0f.chunk.js",
+    "static/js/3.cede6b0f.chunk.js.map": "/space-music-player/static/js/3.cede6b0f.chunk.js.map",
+    "index.html": "/space-music-player/index.html",
+    "static/css/main.430d63aa.chunk.css.map": "/space-music-player/static/css/main.430d63aa.chunk.css.map",
+    "static/js/2.c56b82e0.chunk.js.LICENSE.txt": "/space-music-player/static/js/2.c56b82e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05353d89.js",
+    "static/js/2.c56b82e0.chunk.js",
+    "static/css/main.430d63aa.chunk.css",
+    "static/js/main.fcc25c73.chunk.js"
+  ]
+}
